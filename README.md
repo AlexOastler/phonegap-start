@@ -1,5 +1,5 @@
 # Hello World PhoneGap Application
-Last Update: Sunday Feb 8, 2015 - 5:18pm
+Last Update: Sunday Feb 8, 2015 - 5:19pm
 > A Hello World application built with PhoneGap
 
 ## Usage
